@@ -1,0 +1,55 @@
+.navbar-expand-sm {
+    background-color: #353a40;
+}
+.nav-item a{
+    color: #949da0;
+}
+.navbar-brand b{
+    color: #fff;
+}
+.form-inline{
+    float:right;
+}
+.painel{
+    background-color: #353a40;
+}
+#imagens img{
+    height: 400px;
+}
+.painel2{
+    height: 100px;
+    background-color:#e9ecef;
+}
+.painel2 h2{
+    padding: 25px;
+}
+#cards{
+    padding-top: 60px;
+}
+#fundo .card-header{
+    background: #353a40;
+    color:#fff;
+}
+#fundo .card-img-top{
+    background: #353a40;
+    color:#fff;
+}
+#fundo .card-body{
+    background: #353a40;
+    color:#fff;
+}
+#fundo .card-footer{
+    background: #353a40;
+    color:#fff;
+}
+.card-deck {
+    margin-left: 0px;
+    width: 100%;
+}
+#cards2{
+    padding-top: 50px;
+}
+#formulario{
+    padding: 58px 10px 0px 10px;
+}
+
